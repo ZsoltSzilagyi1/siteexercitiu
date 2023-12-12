@@ -1,0 +1,93 @@
+html {
+    font-family: 'Lora', serif;
+    font-size: 25;
+    background-image: linear-gradient(to right, #a6a6a6, #fff);
+    text-align: center;
+}
+
+/* Sectiunea de meniu */
+#nav_main {
+    display: inline-block;
+    width: 90%;
+    margin: 0 5%;
+    height: 100px;
+    background-color: #1F2020;
+    color: #F3F4F6;
+    border-radius: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+a:link {
+    color: #F3F4F6;
+}
+
+a:visited {
+    color: #F3F4F6;
+}
+
+a:hover {
+    text-decoration: underline;
+   
+}
+
+
+a {
+    text-decoration: none;
+   
+}
+
+#nav_main>ul {
+    display: inline-block;
+    width: 100%;
+}
+
+#nav_main>ul li {
+    display: inline-block;
+    margin: 0 5%;
+    font-family: 'Kalnia', serif;
+    font-size: 32px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.activepage {
+    text-decoration: underline;
+}
+
+/* Portofoliu drop-down menu */
+#portofoliudrop:hover {    
+    text-decoration: underline;
+    font-family: 'Kalnia', serif;
+   
+}
+
+#portofoliumenu{
+    display: none;
+}
+
+#portofoliudrop:hover>#portofoliumenu{
+    display: block;
+    background-color: #1F2020;
+    width: 15%;
+    height: 300px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-left: -2%;
+    text-align: center;
+    padding: 0;
+    position: absolute;
+   
+}
+
+#portofoliumenu ul li {
+    margin: auto;
+    float: left;
+}
+
+
+/* -- */
+
+
+
+

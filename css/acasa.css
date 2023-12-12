@@ -1,0 +1,67 @@
+/* Main */
+
+h1 {
+    font-family: 'Playball', cursive;
+    font-size: 94px;
+    letter-spacing: 13px;
+
+}
+
+.showcaseimg {
+    border-radius: 150px;
+    border: 4px solid #000;
+    display: inline-block;
+    
+}
+
+/* Section A */
+#parfum1 {
+    font-size: 40px;
+    text-align: left;
+    padding: 2%;
+    margin-bottom: 10%;
+    
+}
+
+#parfum1 h2 {
+    font-family: 'Kalnia', serif;
+    margin: 0 0 0 5%;
+    
+}
+
+#parfum1 p {
+    margin: 2% 10%;
+    padding-left: 10px;
+}
+
+
+#imgleft {
+    float: left;
+    margin: 0 2% 30% 0;
+}
+
+/* Section B */
+
+#parfum2 {
+    font-size: 40px;
+    text-align: right;
+    padding: 2%;
+    margin-top: 10%;
+}
+
+#parfum2 h2 {
+    font-family: 'Kalnia', serif;
+    margin: 0 5% 0 0;
+}
+
+#parfum2 p {
+    margin: 2% 10%;
+    padding-right: 10%;
+}
+
+#imgright {
+    float: right;
+    margin: 0 0 30% 2%;
+}
+
+/* -- */

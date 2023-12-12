@@ -1,0 +1,81 @@
+form {
+  font-family: "Rethink Sans", sans-serif;
+  float: left;
+  width: 40%;
+  margin-top: 2%;
+  margin-left: 10%;
+  padding: 2rem;
+  font-size: 34px;
+  text-align: center;
+  background-color: #f1f1f4;
+  border-radius: 100px;
+}
+form div {
+  text-align: right;
+  padding-right: 30%;
+}
+label {
+  padding: 5px;
+}
+
+.forminput {
+  width: 300px;
+  height: 34px;
+  display: inline-block;
+}
+
+div {
+  margin: 5px 0;
+}
+
+textarea {
+  width: 300px;
+}
+
+#textmesaj {
+  display: inline-block;
+  position: absolute;
+  margin-left: -145px;
+}
+
+form p {
+  font-weight: 100;
+  font-size: 10px;
+}
+
+button {
+  font-family: "Rethink Sans", sans-serif;
+  font-size: 34px;
+  border-radius: 100px;
+  border: 1px solid #000;
+}
+
+#contactinf {
+  font-family: "Rethink Sans", sans-serif;
+  float: left;
+  width: 25%;
+  margin-top: 2%;
+  margin-left: 10%;
+  padding: 2rem;
+  font-size: 34px;
+  text-align: center;
+  background-color: #f1f1f4;
+  border-radius: 100px;
+  line-height: 1.6;
+}
+
+#contactinf a{
+    color: #000;
+    display: inline-block;
+}
+
+span {
+    text-decoration: underline;
+    text-align: left;
+}
+
+iframe {
+    margin-top: 2%;
+    border: 2px solid #f1f1f4;
+    border-radius: 20px;
+}

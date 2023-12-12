@@ -1,0 +1,54 @@
+p {
+    font-size: 20px;
+}
+
+#descriere-left {
+    width: 40%;
+    border-right: 3px solid #000;
+    border-radius: 5px;
+    margin-top: 3.5%;
+    display: inline-block;
+}
+
+#descriere-right {
+    width: 40%;
+    border-left: 3px solid #000;
+    border-radius: 5px;
+    margin-top: 3.5%;
+    display: inline-block;
+}
+
+table {
+    width: 40%;
+    margin: 5% auto 5%;
+    border-collapse: collapse;
+    height: 300px;
+}
+
+table, th, td, tr {
+    border: 3px solid #000;
+}
+
+thead {
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    background-color: #191919;
+    color: #fff;
+}
+
+th {
+    padding: 5px;
+}
+
+td {
+    font-size: 20px;
+}
+
+tr:hover {
+    background-color: #F1F1F4;
+}
+
+#tablehead:hover {
+    background-color: #000;
+}
+

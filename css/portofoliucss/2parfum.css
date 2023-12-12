@@ -1,0 +1,41 @@
+div {
+    display: inline-block;
+    width: 20%;
+    height: 600px;
+    background-color: #F1F1F4;
+    border-radius: 25px;
+    margin-top: 7%;
+    border: 3px solid #1F2020;
+}
+
+#parfum-left {
+    margin-right: 5%;
+}
+
+#parfum-right {
+    margin-left: 5%;
+}
+
+div h1 {
+    font-family: 'Kalnia', serif;
+    font-size: 48px;
+}
+
+div img {
+    width: 200px;
+    height: 267px;
+    display: inline-block;
+}
+
+div p {
+    font-size: 24px;
+}
+
+div button{
+    margin: 2% auto;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #1F2020;
+    font-size: 20px;
+    color: #1F2020;
+}
